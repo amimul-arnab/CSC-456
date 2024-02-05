@@ -1,9 +1,6 @@
-# Topics in Software Engineering
+# Welcome
 
-This is a template repository for the topics in software engineering class I teach at CCNY.
-It comes with a pre-configured devcontainer that includes most of the tools you'll need during this semester. 
-If you start with this repository as a template you will have a ready to go development environment that you'll be able to 
-share with your team mates. Additionally, a demo github action workflow has been setup to help you with your first assignment.
+My name is Amimul Arnab. I am a senior at The City College of New York and currently part of the Grove School of Engineering. In this class, I will be foucsed primarily on Software Engineering topics and development stages to turn an idea into a fully funcitional application with practicial uses. I will be working alongside a team. My group members are yet to be determined, but I am excited nonetheless. 
 
 # Tools
 The tools that are installed with this devcontainer are:
@@ -12,5 +9,17 @@ The tools that are installed with this devcontainer are:
 * terraform which lets you automate infrastructure provisioning
 * aws cli for interacting with AWS environment.
 
-# For Students
-If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+# Project Idea
+App Idea: Fitness Diary
+
+Features: 
+Log in a height, weight and measurements to track progress. Also an ability to post progress pictures. 
+A meal plan that uses a database where users can record their food intake and has an intermittent fasting timer. 
+Active steps counter that meausres the amount of steps a user takes per day, with a goal steps thats needed. 
+Workout diary where users can log in an exercise with sets, reps and time allocated to a workout session
+Graph that tracks progress from daily, weekly, and monthly basis.  
+
+Idea insipred by the following apps: Lenus, myFitnesspal, Strong
+
+Primary User: 
+Individuals that are active on a current fitness plan and need an application that continuously tracks their progress to keep them accountable. 
